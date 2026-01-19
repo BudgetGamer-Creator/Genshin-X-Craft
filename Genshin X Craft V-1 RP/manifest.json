@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Genshin X Craft RP V-1",
+		"description": "1 Star Genshin weapons",
+		"uuid": "d5c1e951-0c96-4d3d-940a-86aa97d82460",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["master"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.8.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "traveller sword ",
+			"type": "resources",
+			"uuid": "7598765f-5304-9dca-98b2-143e63395ad0",
+			"version": [1, 0, 0]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "d0c510f2-5ec6-42d3-8b54-0e6bfe173ff6",
+			"version": [1, 0, 0]
+		}
+	]
+}

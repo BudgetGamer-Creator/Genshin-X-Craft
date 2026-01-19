@@ -1,0 +1,34 @@
+{
+	"texture_data": {
+		"hilichurl_spawn_egg": {
+			"textures": ["textures/items/hilichurl_spawn_egg"]
+		},
+		"paistone": {
+			"textures": "textures/items/paistone.png"
+		},
+		"elemental_slime_spawn_egg": {
+			"textures": ["textures/items/elemental_slime_spawn_egg"]
+		},
+		"paimon_spawn_egg": {
+			"textures": ["textures/items/paimon_spawn_egg"]
+		},
+		"beginners_protector": {
+			"textures": "textures/items/beginners_protector.png"
+		},
+		"waster_greatsword": {
+			"textures": "textures/items/waster_greatsword.png"
+		},
+		"dull_blade": {
+			"textures": "textures/items/dull_blade.png"
+		},
+		"traveller_sword": {
+			"textures": "textures/items/traveller_sword.png"
+		},
+		"hunter_bow": {
+			"textures": "textures/items/hunterbow_icon"
+		},
+		"apprentices_notes": {
+			"textures": "textures/items/book_icon"
+		}
+	}
+}
