@@ -1,0 +1,41 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Genshin X Craft V-1 BP",
+		"description": "1 Star Genshin weapons",
+		"uuid": "d0c510f2-5ec6-42d3-8b54-0e6bfe173ff6",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 20, 0]
+	},
+	"metadata": {
+		"authors": ["master"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.8.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "e4f04b8d-e481-06c5-8796-c9bd51b0e975",
+			"type": "data"
+		},
+		{
+      		"type": "script",
+      		"language": "javascript",
+      		"uuid": "001ba938-9aba-4ba3-adfd-ce87e034d298",
+      		"version": [1, 0, 0],
+      		"entry": "scripts/main.js"
+   		 }
+	],
+	"dependencies": [
+		{
+			"uuid": "d5c1e951-0c96-4d3d-940a-86aa97d82460",
+			"version": [1, 0, 0]
+		},
+		{
+      		"module_name": "@minecraft/server",
+      		"version": "1.9.0"
+    	}
+	]
+}
